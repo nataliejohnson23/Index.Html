@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Natalie's Homepage!</title>
+</head>
+<body>
+
+
+
+<h1>Natalie Johnson</h1>
+
+<h2>Student at the Maine Business School</h2>
+
+<p>
+  Links to:
+</p>
+
+<ul>
+  <li><a href="index.html">my Homepage</a></li>
+  <li><a href="publications.html">my Publications</a></li>
+  <li><a href="https://umaine.edu">my Blog</a></li>
+</ul>
+
+<img src="clark.jpg" width="350">
+
+<p>Welcome to my website! My name is Natalie Johnson and I am currently studying at the University of Maine in Orono. I am originally from southern Maine on the boarder of New Hampshire so I have been familiar with Maine all my life. Click the links above for more information about me!</p>
+
+
+
+</body>
+</html>
